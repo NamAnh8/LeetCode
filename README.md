@@ -1,2 +1,2 @@
 # LeetCode
-database solve problems
+database solving problems
